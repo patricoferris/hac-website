@@ -1,1 +1,1 @@
-web: Run serve --env=production --port=$PORT
+web: .build/release/HaCWebsite --port=$PORT
