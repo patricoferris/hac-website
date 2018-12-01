@@ -1,1 +1,1 @@
-web: ./.build/release/HaCWebsite
+web: HaCWebsite
