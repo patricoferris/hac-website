@@ -1,1 +1,1 @@
-web: .build/release/HaCWebsite --port=$PORT
+web: ./.build/release/HaCWebsite
